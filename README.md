@@ -16,9 +16,10 @@ Take Aways and Next Steps|
 
 
 ### Introduction
-    - DevOps in a Nutshell
-    - Facts and Myths
-    
+
+#### DevOps in a Nutshell
+#### Facts and Myths
+
 ### Starting your DevOps Journey
 
 ### Process
