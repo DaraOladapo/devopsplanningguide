@@ -18,10 +18,15 @@ Take Aways and Next Steps|
 ### Introduction
     - DevOps in a Nutshell
     - Facts and Myths
+    
 ### Starting your DevOps Journey
 
 ### Process
+
 ### The CI/CD Bit
+
 ### Test Management
+
 ### Culture
+
 ### Feedback
