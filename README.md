@@ -1,6 +1,8 @@
 # DevOps Planning Guide
 Open Source DevOps Planning Guide
 
+![GitHub](https://img.shields.io/github/license/daraoladapo/devopsplanningguide)
+
 ## Table of Content
 
 Section | Description
