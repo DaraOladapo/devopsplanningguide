@@ -10,7 +10,7 @@ Section | Description
 Introduction|
 Starting your DevOps Journey|
 Process|
-The CI/CD BitCC|
+The CI/CD Bit|
 Test Management|
 Culture|
 Feedback|
