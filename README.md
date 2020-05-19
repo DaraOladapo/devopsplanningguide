@@ -7,14 +7,14 @@ Open Source DevOps Planning Guide
 
 Section | Description
 --|--
-Introduction|
-Starting your DevOps Journey|
-Process|
-The CI/CD Bit|
-Test Management|
-Culture|
-Feedback|
-Take Aways and Next Steps|
+Introduction| A little bit of introdcution of what DevOps is and what it entails
+Starting your DevOps Journey| Taking your first steps in transforming your organizational culture to embrace DevOps Practices
+Process| Managing your work process and SDLC with Work Items, Boards, Sprints, etc.
+The CI/CD Bit| Building and deployment your code to various environments
+Test Management| Manual Tests, Load Tests, Exploratory Tests, Unit Tests
+Culture| Making the shift from ad-hoc processes to a united workplace/environment
+Feedback| Managing feedback and teleemtry, Issue tracking
+Take Aways and Next Steps| Closing out and discussing next steps and general advisory
 
 
 ### Introduction
